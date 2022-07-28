@@ -11,7 +11,7 @@
 3. 前30分鐘：分享上週主題的刷題經驗，如有趣的解法、經典題、其他資源等
 4. 後90分鐘：找LC Explore的DS/Algo課程安排進度，每次針對一主題(e.g., Heap or Dynamic Programming)，每人負責一Chapter，讀書會當天每人花15-20min講解自己負責的共筆，和帶case study（i.e., 挑1題讓大家討論，最後解說optimal solution）
 5. 會後：
-    - 每個人把自己的case study整理到[GitHub]()(各式詳見README)
+    - 每個人把自己的case study整理到[GitHub](https://github.com/nicksome168/leetcode-study/tree/main/problems)(各式詳見README)
     - 每個人寫similar problems
 
 ## Meeting Minutes Template (prep by host)

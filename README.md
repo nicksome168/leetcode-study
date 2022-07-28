@@ -1,7 +1,7 @@
 # LeetCode 讀書會 Master Page
 
 ## 會議紀錄
-01. [LeetCode 讀書會第 01 次聚會 2022/08/03](/TfMSwy2mRWi7K-1wQCQZQw)
+01. [LeetCode 讀書會第 01 次聚會 2022/08/03](https://hackmd.io/TfMSwy2mRWi7K-1wQCQZQw)
 
 
 ## 讀書會進行方式

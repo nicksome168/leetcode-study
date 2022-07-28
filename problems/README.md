@@ -1,7 +1,7 @@
 # Directory Formats
 ```
 |____[question-number]name-of-the-problem (kind|difficulty)
-| |____notes.md
+| |____README.md
 | |____*question-number_your-name_approach.py
 ```
 
@@ -18,15 +18,10 @@ Follow-up:
 
 
 # Thoughts
-## 1.
-(Thoughts) `by Author`
+Person1
+> 
 
-## 2
-(Thoughts) `by Author`
+Person2
+> 
 
-## 3
-(Thoughts) `by Author`
-
-## 4
-(Thoughts) `by Author`
 ```

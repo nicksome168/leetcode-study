@@ -24,7 +24,3 @@ We can assume that for all the numbers in the list (x1, x2, ... xn) that there e
 
 Gary 
 > Since this problem require to output pair of indices instead of pair of values, so we need an array, let say arr to store their value with their respective indices.
-
-## 3
-
-## 4

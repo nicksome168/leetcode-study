@@ -5,7 +5,7 @@
 | |____*question-number_your-name_approach.py
 ```
 
-# notes.md template
+# README.md template
 ```
 # Problem
 (Description)

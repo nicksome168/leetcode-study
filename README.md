@@ -2,7 +2,7 @@
 
 ## 會議紀錄
 01. [LeetCode 讀書會第 01 次聚會 2022/08/03](https://hackmd.io/TfMSwy2mRWi7K-1wQCQZQw)
-
+02. [LeetCode 讀書會第 02 次聚會 2022/08/10](https://hackmd.io/VeHhAmhaSKuBXai91MChTg)
 
 ## 讀書會進行方式
 1. 會前：
